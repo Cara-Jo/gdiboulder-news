@@ -1,0 +1,51 @@
+[
+	
+		{
+		  "title"      : "March 2014 Recap",
+		  "category"   : "",
+		  "url"        : "http://localhost:4000/march-2014-recap/",
+		  "date"       : "2014-03-24 00:00:00 -0600",
+		  "shortdate"  : "March 24, 2014"
+		} ,
+	
+		{
+		  "title"      : "Syntax Highlighting Post",
+		  "category"   : "articles",
+		  "url"        : "http://localhost:4000/articles/code-highlighting-post/",
+		  "date"       : "2013-08-16 00:00:00 -0600",
+		  "shortdate"  : "August 16, 2013"
+		} ,
+	
+		{
+		  "title"      : "Post with Large Feature Image and Text",
+		  "category"   : "articles",
+		  "url"        : "http://localhost:4000/articles/readability-feature-post/",
+		  "date"       : "2013-05-23 00:00:00 -0600",
+		  "shortdate"  : "May 23, 2013"
+		} ,
+	
+		{
+		  "title"      : "A Post with Images",
+		  "category"   : "articles",
+		  "url"        : "http://localhost:4000/articles/sample-post-images/",
+		  "date"       : "2013-05-22 00:00:00 -0600",
+		  "shortdate"  : "May 22, 2013"
+		} ,
+	
+		{
+		  "title"      : "Testing Readability with a Bunch of Text",
+		  "category"   : "articles",
+		  "url"        : "http://localhost:4000/articles/readability-post/",
+		  "date"       : "2012-05-22 00:00:00 -0600",
+		  "shortdate"  : "May 22, 2012"
+		} ,
+	
+		{
+		  "title"      : "Sample Post",
+		  "category"   : "articles",
+		  "url"        : "http://localhost:4000/articles/sample-post/",
+		  "date"       : "2011-03-10 00:00:00 -0700",
+		  "shortdate"  : "March 10, 2011"
+		} 
+	
+]
